@@ -1,6 +1,6 @@
 # NickJonassen-DevOps-Spring2025
 An application that can be used to keep track of your college
-courses
+courses - Nick Jonassen
 
 ##Step 01: Start the UI
 TODO
